@@ -1,2 +1,2 @@
 # imposition
-imposition project with python let me learn python since beginning
+Imposition project with Python to learn Python from the beginning

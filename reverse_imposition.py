@@ -7,7 +7,7 @@
 import copy
 import sys
 import math
-import pyPdf
+from pypdf import PdfReader
 
 """
 Reverse imposing:
